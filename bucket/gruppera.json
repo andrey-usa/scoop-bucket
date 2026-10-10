@@ -1,0 +1,23 @@
+{
+  "version": "0.4.0",
+  "description": "Fast station-temperature aggregation (One Billion Row Challenge format): mmap, SWAR parsing, byte-identical output to the Java reference.",
+  "homepage": "https://github.com/andrey-usa/gruppera",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/andrey-usa/gruppera/releases/download/v0.4.0/gruppera-x86_64-pc-windows-msvc.zip",
+      "hash": "a6ae38e3e727e63cbcd364a501e8fea71ff72f9875a015b447d47bebabf12b59"
+    }
+  },
+  "bin": "gruppera.exe",
+  "checkver": {
+    "github": "https://github.com/andrey-usa/gruppera"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/andrey-usa/gruppera/releases/download/v$version/gruppera-x86_64-pc-windows-msvc.zip"
+      }
+    }
+  }
+}
