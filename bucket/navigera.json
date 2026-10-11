@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/andrey-usa/navigera/releases/download/v0.4.0/navigera-x86_64-pc-windows-msvc.zip",
-      "hash": "c0946eb605c75971ec15cfe275d9cad3b8a8168f5e24d3dfe29c5a53c5f8b71d"
+      "hash": "629a50d398b8a9f2f57f25cf87240897568354777947ea30a04724965a934044"
     }
   },
   "bin": "navigera.exe",
