@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/andrey-usa/compara/releases/download/v0.5.0/compara-x86_64-pc-windows-msvc.zip",
-      "hash": "1daf73db84932d517f6c4113c09ab0d066a67cba31eab57bf09a078b0b85e653"
+      "hash": "f24205bfdcf2b0101f50885f24d5ceefe482803ef0fb3a65c52b3757f9cc1ad2"
     }
   },
   "bin": "compara.exe",
