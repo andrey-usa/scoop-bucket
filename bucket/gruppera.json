@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/andrey-usa/gruppera/releases/download/v0.4.0/gruppera-x86_64-pc-windows-msvc.zip",
-      "hash": "a6ae38e3e727e63cbcd364a501e8fea71ff72f9875a015b447d47bebabf12b59"
+      "hash": "509082fb8b9e259a8e8d3f58d257b4c15441ec20e164c37157a33b905c13f698"
     }
   },
   "bin": "gruppera.exe",
