@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Plain-text web tests that run on real Chrome through navigera: one native binary, no Node.",
-  "homepage": "https://github.com/andrey-usa/bitti",
+  "homepage": "https://andrey-usa.github.io/bitti/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/andrey-usa/bitti/releases/download/v0.1.0/bitti-x86_64-pc-windows-msvc.zip",
-      "hash": "8bc113e4fc0c92135a188d204b8970aec44284ed1c23ac7188e8ec22a5c182de"
+      "url": "https://github.com/andrey-usa/bitti/releases/download/v0.2.0/bitti-x86_64-pc-windows-msvc.zip",
+      "hash": "334aaf48fc9dcd1142734063258e4542f8490ad6a389a5c8bf05df7f45ecf168"
     }
   },
   "bin": "bitti.exe",
