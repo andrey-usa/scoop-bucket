@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Compare two tables (CSV, NDJSON, Parquet) on a composite key: counts, per-column statistics and a self-contained HTML report.",
-  "homepage": "https://github.com/andrey-usa/compara",
+  "homepage": "https://andrey-usa.github.io/compara/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/andrey-usa/compara/releases/download/v0.6.0/compara-x86_64-pc-windows-msvc.zip",
-      "hash": "68e0b6a31fff3815cbd4020296a8465b8b3cfae29cf2877f1cd5e5d95e889934"
+      "url": "https://github.com/andrey-usa/compara/releases/download/v0.6.1/compara-x86_64-pc-windows-msvc.zip",
+      "hash": "2d967031d4cf43b5130b689a1730519ca567af629566cf93d42503a3661f1c10"
     }
   },
   "bin": "compara.exe",
