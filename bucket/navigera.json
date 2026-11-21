@@ -1,12 +1,12 @@
 {
-  "version": "0.16.0",
+  "version": "0.17.0",
   "description": "Drive headless Chrome and Electron apps from the shell, one command per step: a native Rust CDP CLI for AI agents (accessibility-tree refs, sessions, tabs, iframes, dialogs) plus a JSON-lines serve mode.",
   "homepage": "https://andrey-usa.github.io/navigera/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/andrey-usa/navigera/releases/download/v0.16.0/navigera-x86_64-pc-windows-msvc.zip",
-      "hash": "8324e63023e124ad06100f7e48bf418737e665336bd50647258da8c378ec9749"
+      "url": "https://github.com/andrey-usa/navigera/releases/download/v0.17.0/navigera-x86_64-pc-windows-msvc.zip",
+      "hash": "5d2f9f2338f3d4ba523957d7453fb91e24af6943e24c2990130b6023677e39e8"
     }
   },
   "bin": "navigera.exe",
